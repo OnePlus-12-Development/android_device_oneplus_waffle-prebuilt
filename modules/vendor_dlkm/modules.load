@@ -143,6 +143,7 @@ qcom_lpm.ko
 leds-qti-flash.ko
 leds-qti-tri-led.ko
 leds-qpnp-vibrator-ldo.ko
+leds-aw2023.ko
 leds-aw20198.ko
 qcom_pil_info.ko
 rproc_qcom_common.ko
